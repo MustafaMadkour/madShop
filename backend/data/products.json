@@ -1,0 +1,197 @@
+[
+    {
+        "name": "test-product 1",
+        "price": 44.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Electronics",
+        "seller": "Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 2",
+        "price": 324.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 3.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Laptops",
+        "seller": "Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 3",
+        "price": 114.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Cameras",
+        "seller": "Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 4",
+        "price": 44.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Accessories",
+        "seller": "Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 5",
+        "price": 442.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Cameras",
+        "seller": "Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 6",
+        "price": 3356.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Laptops",
+        "seller": "Mustafa Madkour",
+        "stock": 2,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 1",
+        "price": 146.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Headphones",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 7",
+        "price": 44.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Headphones",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 8",
+        "price": 445.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Chargers",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 9",
+        "price": 12254,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Laptops",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 10",
+        "price": 5422,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Cameras",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 11",
+        "price": 44.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Accessories",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    },
+    {
+        "name": "test-product 12",
+        "price": 9.99,
+        "description": "lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum lorem ipsum",
+        "ratings": 4.5,
+        "images": [{
+            "public_id": "",
+            "url": ""
+        }],
+        "category": "Headphones",
+        "seller": "Mustafa Madkour",
+        "stock": 50,
+        "numOfReviews": 30,
+        "reviews": []
+    }
+]
